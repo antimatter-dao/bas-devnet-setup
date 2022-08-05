@@ -30,7 +30,7 @@ You can check Makefile to choose the most interesting commands, but if you just 
 ```bash
 apt update
 apt install -y build-essential socat
-git clone https://github.com/Ankr-network/bas-devnet-setup bas --recursive
+git clone https://github.com/antimatter-dao/bas-devnet-setup bas --recursive
 cd bas
 CHAIN_ID=14001 DOMAIN_NAME=dev-02.bas.ankr.com make all
 ```
