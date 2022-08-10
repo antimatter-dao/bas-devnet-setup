@@ -1,3 +1,4 @@
 [submodule "genesis"]
 	path = genesis
-	url = https://github.com/antimatter-dao/bas-genesis-config
+	url = https://github.com/antimatter-dao/bas-genesis-config.git
+	branch = devel
